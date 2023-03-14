@@ -1,0 +1,3 @@
+- Create new HTML file
+- Add boilerplate
+- Create new CSS folder with CSS file 
